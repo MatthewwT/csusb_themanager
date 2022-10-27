@@ -1,0 +1,19 @@
+.list-group-test {
+	background-color: #c5c1c9;
+	color: black;
+	font-weight: bold;
+	font-size: 20px;
+	border-radius: 5px;
+	margin-bottom: 25px;
+	text-align: center;
+}
+
+.list-group-test-2 {
+	background-color: #a9c0ec;
+	font-weight: bold;
+	font-size: 20px;
+	border-radius: 5px;
+	margin-bottom: 30px;
+	text-align: center;
+	
+}
